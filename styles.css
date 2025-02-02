@@ -1,15 +1,18 @@
 /*  your css code here. If applicable */
-body{
+.container{
+	min-height:200px;
+	width:100%;
 	padding:10px;
 	background-color:#f5f5f5;
 }
-div{
+.testimonial{
 	min-height:50px;
-	width:70%;
+	width:80%;
 	padding:10px;
 	background:#fff;
 	margin:10px;
-	border-radius:2px;
+	border:2px solid lightgray;
+	border-radius:5px;
 }
 p{
 	text-align:right;
